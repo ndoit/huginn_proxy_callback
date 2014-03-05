@@ -1,0 +1,1 @@
+HuginnProxyCallback::Application.config.secret_key_base = '2a980c07dfff902d231e15646def67c054987aa1205659e4ea71e3247256e373fa59dc4f6873050ad5f4d224053fc1e16b'
